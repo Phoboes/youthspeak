@@ -24,7 +24,6 @@ var wordList = {
   "CYA": "See you.",
   "DGAF": "Don't give a fuck.",
   "DM": "Direct message.",
-  "DM; HS": "Doesn't matter. Had sex.",
   "DWBH": "Don’t worry, be happy.",
   "F2F or FTF": "Face to face.",
   "FB": "Facebook.",
@@ -146,10 +145,8 @@ var wordGen = {
   },
   wordSet: function(){
     var primaryWord = this.randomKey(wordList);
-    console.log(primaryWord)
     $('.mainWord').text(primaryWord);
     $('.wordDef').text(wordList[primaryWord]);
-    console.log(wordList[primaryWord])
   }
 };
 
