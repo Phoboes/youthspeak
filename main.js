@@ -42,6 +42,7 @@ var wordList = {
   "FYEO": "For your eyes only.",
   "FYI": "For your information.",
   "GG": "Good game.",
+  "GFG": "Good fucking game. Can be used sarcastically to indicate a novice mistake. 'You let him get away, GFG noob'."
   "GLHF": "Good luck, have fun.",
   "GR8": "Great.",
   "HAK": "Hugs and kisses.",
