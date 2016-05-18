@@ -100,7 +100,7 @@ var wordList = {
   "RAK": "Random act of kindness.",
   "RL": "Real life.",
   "ROFL": "Rolling on the floor laughing.",
-  "ROFLMFAO": "Rolling on the floor laughing my ass off (used to indicate a something is humorous).",
+  "ROFLMFAO": "Rolling on the floor laughing my ass off.",
   "RT": "Retweet. Similar to forwarding an email, Twitter lets you echo other people’s tweets for your own followers to read. In some cases, folks will ask for something they’ve said to be amplified by saying “Please RT” or “PLS RT.”.",
   "RUOK": "Are you okay? In Australia, #RUOK is a regularly trending topic, following a government initiative called RUOK Day, which raises awareness of mental health issues on social networking sites.",
   "SMH": "Shaking my head.",
