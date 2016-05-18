@@ -127,7 +127,7 @@ var wordList = {
   "WTF": "What the fuck?",
   "WTPA": "Where the party at?",
   "WYCM": "Will you call me?",
-  "YGM": "You’ve got mail (to alert your texting partner that you’ve contacted them via that staid old email thing. That’s sooo 2001!).",
+  "YGM": "You’ve got mail (to alert your texting partner that you’ve contacted them via that stale old email thing. That’s sooo 2001!).",
   "YMMV": "Your mileage may vary.",
   "YW": "You’re welcome.",
   "WWJD": "What would Jesus do?",
