@@ -1,0 +1,48 @@
+* {
+  font-family: Arial;
+}
+
+.wordWrap {
+  margin: auto;
+  text-align: center;
+  max-width: 700px;
+  min-width: 300px;
+  min-height: 300px;
+  padding: 1.2em;
+}
+
+.mainWord {
+  font-size: 3em;
+}
+
+.wordDef {
+  font-size: 1.2em;
+}
+
+.youthButt {
+  margin: 1em auto;
+  border: 1px solid rgba( 0, 0, 0, 0.3 );
+  width: 150px;
+  text-align: center;
+  padding: 1.2em;
+  border-radius: 1em;
+}
+  .youthButt:hover {
+    background-color: rgba( 0, 0, 0, 0.1 );
+    cursor: pointer;
+  }
+
+.buttText {
+  margin: 0;
+  font-size: 1em;
+}
+
+.noSelect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;           /* Non-prefixed version, currently
+                                  not supported by any browser */
+}
