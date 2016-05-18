@@ -87,7 +87,7 @@ var wordList = {
   "OMG": "Oh my God.",
   "OMW": "On my way.",
   "OOTD": "Outfit of the day.",
-  "OP": "Original poster - generally regarded as a faggot.",
+  "OP": "Original poster - generally regarded as a faggot. Alternatively: Overpowered. Typically used to indicate something is giving or has an unfair advantage in a game - 'That hunter is OP as fuck.'",
   "ORLY": "Oh, really? ( O v O )",
   "PAW": "Parents are watching.",
   "PDA": "Public display of affection.",
